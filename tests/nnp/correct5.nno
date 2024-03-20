@@ -1,0 +1,14 @@
+//----------------------------------------------------
+// Programme correct
+//  procedure p(v : in integer; i : in out integer) is
+//  begin
+//    i := i + v
+//  end;
+//------------------------------------------------------
+procedure pp is
+  a : integer;
+begin
+  a := 5;
+  a := a+1;
+  put(a)
+end.
