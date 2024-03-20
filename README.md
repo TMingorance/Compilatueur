@@ -1,7 +1,7 @@
 # Compilatueur
 Student Python project about compiling a homemade programming language.
 
-Compilatueur est un projet d'école d'ingénieur réalisé en 2020, en équipe de 3, et qui a consisté en la création d'un compilateur de code "maison" : Avec les commandes d'exécution ci-dessous, ce projet permet de parser du code écrit dans un langage "maison" pour le traduire en un langage machine fictif.\
+Compilatueur est un projet d'école d'ingénieur réalisé en 2020, en équipe de 3, et qui a consisté en la création d'un compilateur de code "maison" : Avec les commandes d'exécution ci-dessous, ce projet permet de parser du code écrit dans un langage de programmation procédural "maison" pour le traduire en un langage machine fictif.\
 \
 \
 \
